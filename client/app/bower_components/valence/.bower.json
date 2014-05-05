@@ -1,0 +1,36 @@
+{
+  "name": "valence",
+  "main": "valence.js",
+  "homepage": "https://github.com/metaltoad/valence",
+  "description": "Data, Authentication and View Transition layers for Angular applications.",
+  "keywords": [
+    "Angularjs",
+    "Data-Management",
+    "Data-Centralization",
+    "Authentication",
+    "Storage",
+    "Caching",
+    "Transitions."
+  ],
+  "authors": [
+    "Ken Stowell"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "7aabf61f2c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7aabf61f2cdbb865989b9ed863a667b83dd3f418"
+  },
+  "_source": "git://github.com/metaltoad/valence.git",
+  "_target": "*",
+  "_originalSource": "valence",
+  "_direct": true
+}
